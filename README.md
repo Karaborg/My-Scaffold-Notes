@@ -1,8 +1,8 @@
 # Welcome
-This is me taking notes on GitHub while learning `Scaffold`. I will probably be going to need this document when I forget how it works. If you find something useful, be my guest. I will try to update this whenever I study.
+This is me taking notes on GitHub while learning `Skaffold`. I will probably be going to need this document when I forget how it works. If you find something useful, be my guest. I will try to update this whenever I study.
 
 ## Intro
-- **Scaffold** is an open source project from Google
+- **Skaffold** is an open source project from Google
 - It's a command line tool for **continuous development** of applications that can run on ***Kubernetes***
 - Skaffold will handle:
   - **Building**, for example with Docker build
